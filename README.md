@@ -1,3 +1,42 @@
+# Bank Customer Segmentation: Insights through Interactive Tableau Dashboards 
+# Description:
+
+# This project involves the analysis and segmentation of bank customer data to tailor sales strategies using advanced analytics. We've harnessed the power of AWS services, Apache Airflow, Fivetran, Snowflake Data Warehouse, and Tableau to achieve end-to-end data processing, storage, visualization, and insight extraction.
+
+# Table of Contents
+  Installation
+  Usage
+  Contributing
+  License
+  Acknowledgements
+  Installation
+  AWS Account with configured CLI.
+  Apache Airflow installed and set up.
+  Fivetran & Snowflake accounts.
+  Tableau Desktop or Tableau Server.
+
+# Setup AWS Services:
+  Configure S3 for data storage.
+  Set up EC2 instances for data processing.
+  Use RDS for relational data management.
+  Usage
+
+Data Acquisition: Collect raw bank customer data.
+Data Storage in AWS S3: Store the raw datasets into AWS S3 buckets.
+Data Processing on AWS EC2: Initiate transformation processes.
+Manage Data on AWS RDS: Store structured bank data.
+Orchestrate with Apache Airflow: Manage and monitor the data flow.
+Integrate Data with Fivetran: Handle the ETL processes.
+Centralize Data in Snowflake: Create a unified repository for analytics.
+Visualize Data with Tableau: Present the processed data in an understandable format.
+Implement Filters in Tableau: Enhance dashboard interactivity.
+Gain Insights: Analyze visual data to form actionable strategies.
+
+
+
+
+
+
 # Tableau_Story
 **Summary of the key insights and findings from the analysis. The conclusions include recommendations for improving sales performance, such as focusing on the top-performing products, regions, and customer segments.
 **
@@ -5,8 +44,7 @@
 The purpose of this project is to analyze a dummy dataset for an imaginary bank in the United Kingdom. 
 
 **Data Source:**
-The dataset can be found and downloaded from the Super Data Science website under section 6.
-The dataset consists of 4,014 rows that include the attributes of Customer ID, Name, Surname, Gender, Age, Region, Job Classification, Date Joined, and Balance.
+The dataset consists of Customer ID, Trx ID , Name, Surname, Gender, Age, Region, Job Classification, Date Joined, and Balance.
 Job Classification: White collar, Blue collar, and other.
 Date Joined: Customers joined from January to December 2015.
 Balance: Amount of money on the customer's account.
