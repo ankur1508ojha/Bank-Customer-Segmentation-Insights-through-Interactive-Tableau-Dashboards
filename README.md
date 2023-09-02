@@ -5,11 +5,6 @@
 
 # Table of Contents
   Installation
-  Usage
-  Contributing
-  License
-  Acknowledgements
-  Installation
   AWS Account with configured CLI.
   Apache Airflow installed and set up.
   Fivetran & Snowflake accounts.
