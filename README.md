@@ -27,6 +27,7 @@ Visualize Data with Tableau: Present the processed data in an understandable for
 Implement Filters in Tableau: Enhance dashboard interactivity.
 Gain Insights: Analyze visual data to form actionable strategies.
 
+<img width="662" alt="Screenshot 2024-01-18 at 6 55 26 PM" src="https://github.com/ankur1508ojha/Bank-Customer-Segmentation-Insights-through-Interactive-Tableau-Dashboards/assets/102976689/44fced4d-dba8-43d1-95fd-beca9bb932d0">
 
 
 
